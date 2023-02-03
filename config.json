@@ -81,11 +81,11 @@
                 "network":"ws",
                 "security":"none",
                 "wsSettings":{
-                    "path":"/uuid-vl"
+                    "path":"/uuid-vle"
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -109,11 +109,11 @@
             "streamSettings":{
                 "network":"ws",
                 "wsSettings":{
-                    "path":"/uuid-vm"
+                    "path":"/uuid-vme"
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -137,11 +137,11 @@
                 "network":"ws",
                 "security":"none",
                 "wsSettings":{
-                    "path":"/uuid-tr"
+                    "path":"/uuid-tro"
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -166,11 +166,11 @@
             "streamSettings":{
                 "network":"ws",
                 "wsSettings":{
-                    "path":"/uuid-ss"
+                    "path":"/uuid-ssc"
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -199,7 +199,7 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
